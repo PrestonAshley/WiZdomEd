@@ -295,9 +295,13 @@ img {
 .section-header {
     display: flex;
     flex-direction: column;
-    font-size: 40px;
+    font-size: 25px;
     margin: 20px 0;
     align-items: center;
+}
+
+.team .section-header{
+    padding-top: 40px;
 }
 
 .section-padding {
