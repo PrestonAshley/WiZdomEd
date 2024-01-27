@@ -1,2 +1,2 @@
-# BusinessSiteModel
-A basic business website using HTML, CSS, and JavaScript
+# WiZdom Ed | Intelligent Learning
+First Look of the site for now
